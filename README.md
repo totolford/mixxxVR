@@ -1,8 +1,6 @@
 # Mixxx.VR 🎧🕶️  
 *Une immersion VR dans le DJing, powered by Mixxx & Meta Quest 3*  
 
-![Banner](assets/banner.png) *(Optionnel : ajoute une bannière visuelle)*  
-
 ## 📌 **Description**  
 **Mixxx.VR** est une adaptation open source de [Mixxx](https://mixxx.org/) pour la **réalité virtuelle** (Meta Quest 3).  
 - 🎛️ **Table DJ 3D interactive** avec platines, mixer et effets.  
@@ -39,4 +37,21 @@
 ```bash
 git clone https://github.com/tonusername/Mixxx.VR.git  
 cd Mixxx.VR  
-# Ouvrir le projet dans Unity/Unreal  
+# Ouvrir le projet dans Unity/Unreal
+```
+##🤝 Contribuer
+Les contributions sont bienvenues ! Voici comment aider :
+
+Code : Améliorer l’intégration OpenXR/Quest.
+
+3D : Créer des assets (tables, boutons stylisés).
+
+Tests : Reporter des bugs sur les issues.
+
+Guide détaillé : CONTRIBUTING.md
+
+##📜 Licence
+Ce projet est sous GPL v3 . Voir LICENSE.
+
+##✉️ Contact
+Twitter : @totol_ford
